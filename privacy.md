@@ -1,20 +1,20 @@
-# Privacy Policy for Gymin
+# Privacy Policy for Cowanbas Applications
 
 **Effective Date:** September 9, 2026
 
-Gymin ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by Gymin.
+Cowanbas ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by Cowanbas across our mobile applications (collectively, the "Applications").
 
-This Privacy Policy applies to our mobile application **Gymin**. By downloading, accessing, or using our application, you agree to the collection and use of information in accordance with this policy.
+This Privacy Policy applies to all applications developed under the **Cowanbas** brand. By downloading, accessing, or using any of our applications, you agree to the collection and use of information in accordance with this policy.
 
 ---
 
 ## 1. Information Collection and Use
 
-To provide a better experience while using our application, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+To provide a better experience while using our applications, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-* **Personal Data:** Depending on how you use Gymin, we may collect basic usage data, account credentials (if applicable), or preferences to enhance your workout experience, as well as details regarding your subscription plans (including monthly, quarterly, and annual subscriptions).
-* **Subscription and Payment Data:** When you purchase a subscription (available on a monthly, quarterly, or annual basis), transaction and billing details are processed securely through third-party payment platforms in accordance with their respective terms.
-* **Log Data:** We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+* **Personal Data:** Depending on the specific application you use, we may collect basic usage data, account credentials (if applicable), or user preferences to enhance your experience, as well as details regarding your subscription plans (when applicable).
+* **Subscription and Payment Data:** When you purchase a subscription or make in-app purchases, transaction and billing details are processed securely through third-party payment platforms (such as the App Store or Google Play) in accordance with their respective terms.
+* **Log Data:** We want to inform you that whenever you use our Services, in the case of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
 ---
 
